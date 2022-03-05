@@ -7,6 +7,9 @@
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
+  "engines": {
+    "node": "10.x"
+  },
   "dependencies": {
     "algoliasearch": "^3.32.0",
     "axios": "^0.18.0",
